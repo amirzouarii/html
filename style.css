@@ -1,0 +1,39 @@
+.BarreNavigation{
+    align-items: center;
+    background-color:cadetblue;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 70px;
+
+}
+
+.BarreNavigation img{
+    padding-left: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+.BarreNavigation li{
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+    margin: 1rem;
+    color: white;
+}
+
+p{
+    font-family: 'roboto';
+    padding: 25px;
+    color: brown;
+    background-color: yellow;
+
+
+}
+
+.BarreNavigation a{
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    background-color: antiquewhite;
+}
